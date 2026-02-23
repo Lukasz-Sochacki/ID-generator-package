@@ -1,0 +1,14 @@
+{
+  "name": "@user/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Łukasz Sochacki",
+  "keywords": [
+    "generator",
+    "id"
+  ],
+  "contributors": [
+    "kodilla"
+  ]
+}
